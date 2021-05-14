@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8lPUhK2NbVRynikFeDCtMgOEzWPnZGfcJycQJjhUFnnZQViJU4ZoBIyuy32EhKVxCDn90gtoEZl80ENMkUeQeg==",
+  "success": true,
+  "projectFilePath": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Domain/LibraryManager.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/ae/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/ae/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

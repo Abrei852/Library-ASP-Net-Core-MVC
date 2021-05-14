@@ -1,0 +1,310 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.MVC/LibraryManager.MVC.csproj": {}
+  },
+  "projects": {
+    "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Application/LibraryManager.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Application/LibraryManager.Application.csproj",
+        "projectName": "LibraryManager.Application",
+        "projectPath": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Application/LibraryManager.Application.csproj",
+        "packagesPath": "/home/ae/.nuget/packages/",
+        "outputPath": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ae/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Domain/LibraryManager.Domain.csproj": {
+                "projectPath": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Domain/LibraryManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Domain/LibraryManager.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Domain/LibraryManager.Domain.csproj",
+        "projectName": "LibraryManager.Domain",
+        "projectPath": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Domain/LibraryManager.Domain.csproj",
+        "packagesPath": "/home/ae/.nuget/packages/",
+        "outputPath": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ae/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/LibraryManager.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/LibraryManager.Infrastructure.csproj",
+        "projectName": "LibraryManager.Infrastructure",
+        "projectPath": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/LibraryManager.Infrastructure.csproj",
+        "packagesPath": "/home/ae/.nuget/packages/",
+        "outputPath": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ae/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Application/LibraryManager.Application.csproj": {
+                "projectPath": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Application/LibraryManager.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.MVC/LibraryManager.MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.MVC/LibraryManager.MVC.csproj",
+        "projectName": "LibraryManager.MVC",
+        "projectPath": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.MVC/LibraryManager.MVC.csproj",
+        "packagesPath": "/home/ae/.nuget/packages/",
+        "outputPath": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.MVC/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ae/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Application/LibraryManager.Application.csproj": {
+                "projectPath": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Application/LibraryManager.Application.csproj"
+              },
+              "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/LibraryManager.Infrastructure.csproj": {
+                "projectPath": "/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/LibraryManager.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[3.1.15, 3.1.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

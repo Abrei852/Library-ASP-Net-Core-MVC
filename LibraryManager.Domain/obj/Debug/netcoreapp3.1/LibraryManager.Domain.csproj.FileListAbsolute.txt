@@ -1,0 +1,9 @@
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Domain/bin/Debug/netcoreapp3.1/LibraryManager.Domain.deps.json
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Domain/bin/Debug/netcoreapp3.1/LibraryManager.Domain.dll
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Domain/bin/Debug/netcoreapp3.1/LibraryManager.Domain.pdb
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Domain/obj/Debug/netcoreapp3.1/LibraryManager.Domain.csprojAssemblyReference.cache
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Domain/obj/Debug/netcoreapp3.1/LibraryManager.Domain.AssemblyInfoInputs.cache
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Domain/obj/Debug/netcoreapp3.1/LibraryManager.Domain.AssemblyInfo.cs
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Domain/obj/Debug/netcoreapp3.1/LibraryManager.Domain.csproj.CoreCompileInputs.cache
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Domain/obj/Debug/netcoreapp3.1/LibraryManager.Domain.dll
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Domain/obj/Debug/netcoreapp3.1/LibraryManager.Domain.pdb

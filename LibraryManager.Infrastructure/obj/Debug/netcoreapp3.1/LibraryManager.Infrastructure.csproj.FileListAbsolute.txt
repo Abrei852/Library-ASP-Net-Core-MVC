@@ -1,0 +1,17 @@
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/obj/Debug/netcoreapp3.1/LibraryManager.Infrastructure.csprojAssemblyReference.cache
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/obj/Debug/netcoreapp3.1/LibraryManager.Infrastructure.AssemblyInfoInputs.cache
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/obj/Debug/netcoreapp3.1/LibraryManager.Infrastructure.AssemblyInfo.cs
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/obj/Debug/netcoreapp3.1/LibraryManager.Infrastructure.csproj.CoreCompileInputs.cache
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/bin/Debug/netcoreapp3.1/LibraryManager.Infrastructure.deps.json
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/bin/Debug/netcoreapp3.1/LibraryManager.Infrastructure.runtimeconfig.json
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/bin/Debug/netcoreapp3.1/LibraryManager.Infrastructure.runtimeconfig.dev.json
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/bin/Debug/netcoreapp3.1/LibraryManager.Infrastructure.dll
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/bin/Debug/netcoreapp3.1/LibraryManager.Infrastructure.pdb
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/bin/Debug/netcoreapp3.1/LibraryManager.Application.dll
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/bin/Debug/netcoreapp3.1/LibraryManager.Domain.dll
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/bin/Debug/netcoreapp3.1/LibraryManager.Application.pdb
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/bin/Debug/netcoreapp3.1/LibraryManager.Domain.pdb
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/obj/Debug/netcoreapp3.1/LibraryManager.Infrastructure.csproj.CopyComplete
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/obj/Debug/netcoreapp3.1/LibraryManager.Infrastructure.dll
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/obj/Debug/netcoreapp3.1/LibraryManager.Infrastructure.pdb
+/media/ae/08A363584374BE38/Programmering/Csharp/ASP-core-MVC/LibraryManager/LibraryManager.Infrastructure/obj/Debug/netcoreapp3.1/LibraryManager.Infrastructure.genruntimeconfig.cache
